@@ -1,0 +1,3 @@
+[submodule "MusicSynthesis/docs/fonts/SarasaMonoSC"]
+	path = MusicSynthesis/docs/fonts/SarasaMonoSC
+	url = git@hf.co:datasets/FHYQ-Dong/Fonts.SarasaMonoSC
